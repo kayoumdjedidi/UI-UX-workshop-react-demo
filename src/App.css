@@ -1,0 +1,41 @@
+footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #C8E1FF;
+  padding: 2rem;
+}
+
+footer .col-md-2 h4 {
+  text-transform: lowercase;
+  color: #3893FF;
+}
+
+footer h5 {
+  text-transform: lowercase;
+}
+
+.info h5 {
+  margin-top: .2rem;
+}
+
+.bottom {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top input {
+  border: none;
+  outline: none;
+  background-color: #C8E1FF;
+  border-bottom: 1.25px solid grey;
+}
+
+.email {
+  text-decoration: underline;
+}
+
+.icons img {
+  margin-right: 1rem;
+}
