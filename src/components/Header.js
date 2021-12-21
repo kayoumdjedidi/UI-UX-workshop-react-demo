@@ -16,7 +16,6 @@ function Header() {
       <Row className='header-top'>
         <img src='/images/logo.png' />
         <Row className='search'>
-          <div></div>
           <InputGroup className='mb-2'>
             <InputGroup.Text>
               Products
