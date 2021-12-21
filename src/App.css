@@ -1,8 +1,45 @@
+header {
+  padding: 1rem;
+}
+
+header .row {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-top {
+  padding: 1rem;
+}
+
+.button {
+  margin-right: 1rem;
+  width: 90px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #3893FF;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  padding: .5rem;
+  padding-left: 1.1rem;
+  font-size: 1rem;
+}
+
+.button-login {
+  margin-right: 1rem;
+  width: 90px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #3893FF;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  padding: .5rem;
+  padding-left: 1.5rem;
+  font-size: 1rem;
+}
+
 footer {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background: #C8E1FF;
   padding: 2rem;
 }
